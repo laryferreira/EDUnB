@@ -13,3 +13,5 @@ As opções são: "LIFO", se ela se comportar como uma pilha, "FIFO", caso tenha
 caso pareça ser uma fila de prioridades. Caso o comportamento não seja equivalente a uma destas estruturas de dados tradicionais, informe ao Mestre D'Costa que "no hay!".
 Se houver mais de uma possibilidade, questione-o com: "uai?"'''''
 
+class Stack:
+    def __init__(self):
