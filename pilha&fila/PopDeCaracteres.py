@@ -1,3 +1,11 @@
+'''Imprima a sequência de caracteres retornados pelas operações de dequeue quando esta sequência de operações é realizada em uma fila de caracteres inicialmente vazia.
+
+Entrada:
+Sequência de caracteres em uma linha.
+
+Saída:
+Sequência de caracteres processados pelas operações pop.'''
+
 # pilha
 class Stack:
     def __init__(self):
